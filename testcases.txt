@@ -1,0 +1,58 @@
+dst_host_srv_count	logged_in	dst_host_diff_srv_rate	dst_host_same_srv_rate	dst_host_same_src_port_rate	flag	same_srv_rate	dst_host_srv_rerror_rate	srv_rerror_rate	rerror_rate	diff_srv_rate	dst_host_srv_diff_host_rate	dst_host_rerror_rate	count	protocol_type	dst_host_srv_serror_rate	serror_rate	dst_host_serror_rate	srv_serror_rate	class
+
+
+normal
+
+1	0	0.6	0	0.88	0	0.08	0	0	0	0.15	0	0	13	0	0	0	0	0	
+
+
+255	1	0	1	0.03	0	1	0.01	0	0	0	0.04	0	5	1	0.01	0.2	0.03	0.2	
+
+
+Dos
+
+
+26	0	0.05	0.1	0	1	0.05	0	0	0	0.07	0	0	123	1	1	1	1	1	
+
+
+19	0	0.07	0.07	0	2	0.16	1	1	1	0.06	0	1	121	1	0	0	0	0	
+
+
+
+R2L
+
+
+20	1	0	1	1	0	1	0	0	0	0	0.2	0	2	1	0	0	0	0	
+
+
+38	1	0	1	1	0	1	0	0	0	0	0.18	0	2	1	0	0	0	0	
+
+
+
+Probe Attack
+
+
+46	0	0	1	1	0	1	0	0	0	0	0.26	0	1	2	0	0	0	0	
+
+
+1	0	0.58	0	0.58	3	1	1	1	1	0	0	0.58	1	1	0	0	0	0	
+
+
+
+U2L Attack
+
+
+4	1	0	1	1	0	1	0	0	0	0	0	0	3	1	0	0	0	0	
+
+
+8	1	0	1	0.12	0	1	0.12	0	0	0	0	0.12	1	1	0	0	0	0	
+
+
+
+
+
+
+
+
+
+
